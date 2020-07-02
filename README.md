@@ -1,2 +1,2 @@
 # Miwok App
-Learning a native American language
+App developed to learn a native American language.
